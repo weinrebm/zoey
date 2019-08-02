@@ -1,0 +1,20 @@
+body {
+  background-color: pink;
+}
+
+h1{
+  color: purple;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#info{
+  color: red;
+}
+
+img{
+  float: left;
+}
+
+#purple{
+  color: purple;
+}
